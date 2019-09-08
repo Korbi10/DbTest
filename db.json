@@ -1,6 +1,33 @@
-[
-  {
-    "name": "Testgame 1 ",
-    "description": "A large phone with one of the best screens"
-  }
-]
+{
+  "game": [
+    {
+      "name": "Testgame 1 ",
+      "description": "A large phone with one of the best screens",
+      "scenes": [
+        {
+          "id": "1"
+        }
+      ],
+      "maps": [
+        {
+          "id": "1"
+        }
+      ],
+      "characters": [
+        {
+          "id": "1"
+        }
+      ],
+      "items": [
+        {
+          "id": "1"
+        }
+      ],
+      "npc": [
+        {
+          "id": "1"
+        }
+      ]
+    }
+  ]
+}
