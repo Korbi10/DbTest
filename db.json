@@ -29,6 +29,36 @@
           "id": "1"
         }
       ]
+    },
+    {
+      "id": "2",
+      "name": "Testgame 2 ",
+      "description": "A large phone with one of the best screens",
+      "scenes": [
+        {
+          "id": "1"
+        }
+      ],
+      "maps": [
+        {
+          "id": "1"
+        }
+      ],
+      "characters": [
+        {
+          "id": "1"
+        }
+      ],
+      "items": [
+        {
+          "id": "1"
+        }
+      ],
+      "npc": [
+        {
+          "id": "1"
+        }
+      ]
     }
   ]
 }
